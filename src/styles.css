@@ -1,0 +1,76 @@
+/*
+  A stylesheet customizing app (custom renderers)
+*/
+
+table.htCore .star {
+  color: #fcb515;
+}
+
+table.htCore tr.odd td {
+  background: #fafbff;
+}
+
+table.htCore td .progressBar {
+  background: #37bc6c;
+  height: 10px;
+}
+
+table.htCore tr.selected td {
+  background: #edf3fd;
+}
+
+/*
+  A stylesheet customizing Handsontable style
+*/
+
+.handsontable {
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.collapsibleIndicator {
+  text-align: center;
+}
+
+.handsontable .htRight .changeType {
+  margin: 3px 1px 0 13px;
+}
+
+/* td.custom-cell {
+  color: #fff;
+  background-color: #37bc6c;
+} */
+
+/* .custom-table thead tr:nth-child(3) th:nth-child(even) {
+  background-color: #d7f1e1;
+} */
+/* 
+.custom-table thead tr:nth-child(1) th:nth-child(16),
+.custom-table thead tr:nth-child(1) th:nth-child(17) {
+  background-color: #d7f1e1;
+}
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 10),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 12),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 16),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 17),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 18),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 19),
+.custom-table thead tr:nth-child(2) th:nth-child(0n + 20) {
+  background-color: #d7f1e1;
+} */
+
+/* .custom-table thead tr:nth-child(1) th:nth-child(n + 2),
+.custom-table thead tr:nth-child(2) th:nth-child(n + 2),
+.custom-table thead tr:nth-child(3) th:nth-child(n + 2) {
+  background-color: #d7f1e1;
+} */
+
+/* .custom-table tbody tr th {
+  background-color: #d7f1e1;
+} */
+
+/* .custom-table tbody tr:nth-child(odd) th {
+  background-color: #f0d7f1;
+} */

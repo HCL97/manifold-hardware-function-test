@@ -5,7 +5,7 @@ import "./styles.css";
 import { HotTable, HotColumn } from "@handsontable/react";
 import { registerAllModules } from "handsontable/registry";
 
-import { data1 } from "./data2/manifold-hardware-function-test-data1";
+import { data1 } from "./data2/manifold-hardware-function-test-data1";//  ergreree
 import { data2 } from "./data2/manifold-hardware-function-test-data2";
 // import { ProgressBarRenderer } from "./renderers/ProgressBar";
 // import { StarsRenderer } from "./renderers/Stars";
